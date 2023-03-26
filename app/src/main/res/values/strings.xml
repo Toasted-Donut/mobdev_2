@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mobdev2</string>
+    <string name="settings">settings</string>
+    <string name="name">nikita</string>
+    <string name="lastname">egorov</string>
+    <string name="msg_to">msg_to</string>
+    <string name="msg_from">msg_from</string>
+</resources>
